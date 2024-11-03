@@ -11,5 +11,6 @@ My Version includes:
 Dataset updated every 3 hours
 
 
-Here the last version (2024-11-03) : 
+Here an exemple of the last version (2024-11-03) : 
+if the prog print nothing, this means that none of your favourite mangas are updated.
 <p align="center"><img src="GIMU2.png" width="700" /> </p> 
