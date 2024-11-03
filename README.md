@@ -12,7 +12,8 @@ The subscribe version includes :
   
 (for now)
 
-Dataset updated every 3 hours
+**Dataset updated every 3 hours**
+
 Here an exemple of the last version (2024-11-03) : 
 
 if the prog print nothing, this means that none of your favourite mangas are updated.
