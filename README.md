@@ -3,14 +3,16 @@ Public version of my Updater. Includes only mangadex fue days of daily updates. 
 
 Here is the prog : [MangaNotifier](https://github.com/Ellimaaac/MangaNotifier/blob/main/MangaNotifier.py)
 
-My Version includes: 
+============================================================================================
+
+The subscribe version includes : 
 - mangadex
 - mangafreak
 - manganato (copy of mangakakalot)
+  
+(for now)
 
 Dataset updated every 3 hours
-
-
 Here an exemple of the last version (2024-11-03) : 
 
 if the prog print nothing, this means that none of your favourite mangas are updated.
