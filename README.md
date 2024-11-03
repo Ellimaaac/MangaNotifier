@@ -8,7 +8,7 @@ My Version includes:
 - mangafreak
 - manganato (copy of mangakakalot)
 
-Update of dataset every 3 hours
+dataset updated every 3 hours
 
 
 Here the last version (2024-11-03) : 
