@@ -12,7 +12,7 @@ The subscribe version includes :
   
 (for now)
 
-**Dataset updated every 3 hours**
+**Dataset updated every 1 hour (30mins soon)**
 
 Here an exemple of the last version (2024-11-03) : 
 
