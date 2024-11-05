@@ -9,8 +9,10 @@ The subscribe version includes :
 - mangadex
 - mangafreak
 - manganato (copy of mangakakalot)
-  
-(for now)
+
+In coming : 
+- Webtoon
+- ...
 
 **Dataset updated every 1 hour (30mins soon)**
 
