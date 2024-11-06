@@ -12,6 +12,7 @@ The subscribe version includes :
 
 In coming : 
 - Webtoon
+- MangaPark
 - ...
 
 **Dataset updated every 1 hour (30mins soon)**
