@@ -3,6 +3,8 @@ Public version of my Updater. Includes only mangadex Daily updates.  To get more
 
 Here is the prog : [MangaNotifier](https://github.com/Ellimaaac/MangaNotifier/blob/main/MangaNotifier.py)
 
+# New VERSION - GOOGLE EXTENSION 
+
 ## License
 CC-BY-NC-SA
 
