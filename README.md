@@ -22,9 +22,3 @@ In coming :
 - ...
 
 **Dataset updated every 1 hour (30mins soon)**
-
-Here an exemple of the last version (2024-11-03) : 
-
-if the prog print nothing, this means that none of your favourite mangas are updated.
-
-<p align="center"><img src="GIMU3.png" width="700" /> </p> 
