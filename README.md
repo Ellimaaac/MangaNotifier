@@ -1,5 +1,5 @@
 # MangaNotifier
-Public version of my Updater. Includes only mangadex Daily updates.  To get more websites, you have to subscribe.
+Public version of my Updater. Includes only mangadex. Daily updates.  To get more websites, you have to subscribe.
 
 # License
 CC-BY-NC-SA
