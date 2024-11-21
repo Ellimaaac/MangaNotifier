@@ -13,8 +13,7 @@ Here is the script : [MangaNotifier](https://github.com/Ellimaaac/MangaNotifier/
 ## New VERSION - GOOGLE EXTENSION - available soon
 
 <p align="center">
-  <img src="MNGE1.png" width="320" style="margin-right: 5px;">
-  <img src="MNGE3.png" width="350">
+  <img src="MNGE3.png" width="350" style="margin-right: 5px;">
 </p>
 
 ## Script V3
