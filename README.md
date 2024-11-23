@@ -1,5 +1,5 @@
 # MangaNotifier
-Public version of my Updater. Includes only mangadex. Daily updates. 
+Public version of my Updater. Includes Mangadex and Manganato. Daily updates. 
 
 **Now I will only focus on the Google Extension Development.** If there are issues with the script use the `Issues Section`.
 
