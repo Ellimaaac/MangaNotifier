@@ -14,6 +14,7 @@ Here is the script : [MangaNotifier](https://github.com/Ellimaaac/MangaNotifier/
 
 <p align="center">
   <img src="MNGE3.png" width="350" style="margin-right: 5px;">
+  <img src="MNGE4.png" width="350" style="margin-right: 5px;">
 </p>
 
 ## Script V3
